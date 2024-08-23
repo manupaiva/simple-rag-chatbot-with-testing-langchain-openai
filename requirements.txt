@@ -2,9 +2,14 @@ openai
 langchain
 langchain-openai
 langchain_pinecone
+langchain-community
 langchain[docarray]
 docarray
 pydantic==1.10.8
+langchain_experimental
+bs4
+ipytest
+giskard[llm]
 pytube 
 python-dotenv
 tiktoken 
